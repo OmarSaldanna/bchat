@@ -1,0 +1,10 @@
+# Ignore Mac system files
+*.DS_Store
+*.cfg
+
+# private important files
+*.json
+
+# other files from system
+__init__.py
+__init__.pyc
