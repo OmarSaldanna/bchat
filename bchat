@@ -1,0 +1,7 @@
+#! /bin/bash
+
+cd /Users/omarsaldanna/bchat
+clear
+echo bchat
+echo 
+python3 client.py
